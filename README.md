@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Trek18
+-   I'm an undergrad student currently pursuing Computer Science as my major. 
+- 👀 I’m interested in game development, web design, and software application development.
+- 🌱 I’m currently honing my skills in web development and learning different frameworks and tools such as ReactJS.
+- - 💞️ I’m looking to collaborate on simple web design/game development projects in order to learn more about the field.
